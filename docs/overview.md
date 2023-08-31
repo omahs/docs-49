@@ -1,12 +1,12 @@
 ---
 title: Celo Platform
-description: Overview of the Celo platform and it's relationship to the Ethereum blockchain.
+description: Overview of the Celo platform and its relationship to the Ethereum blockchain.
 id: overview
 ---
 
 # Celo Platform
 
-Overview of the Celo platform and it's relationship to the Ethereum blockchain.
+Overview of the Celo platform and its relationship to the Ethereum blockchain.
 
 ---
 
